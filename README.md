@@ -29,7 +29,7 @@ It allows users to input any text in a browser and translate it into **50+ globa
 7. The Lambda response is returned back via **API Gateway** to the frontend.  
 8. User sees the translated text in the browser.  
 
-![Workflow Diagram](architecture.png)
+![Workflow Diagram](architecture/architecture.png)
 
 ---
 
